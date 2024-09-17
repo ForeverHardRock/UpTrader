@@ -1,0 +1,8 @@
+.venv/
+.env
+.idea/
+
+TreeMenu/db.sqlite3
+
+!/TreeMenu/menu/migrations/__init__.py
+/TreeMenu/menu/migrations/
